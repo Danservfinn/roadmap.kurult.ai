@@ -1,8 +1,8 @@
 # Launch roadmaps — Kurultai
-> Canonical Parse + Hulegu launch roadmaps, kept by Ghazan. x402 OFF. No certifications. Scoring weights unpublished. This host only.
+> Canonical Parse + Hulegu launch roadmaps, kept by Ghazan. x402 OFF. No certifications. Scoring weights unpublished. Intended hostname roadmap.kurult.ai (Mini origin; not claimed live here).
 
 ## About
-- [Launch roadmaps](https://roadmap.kurult.ai): Parse + Hulegu launch roadmaps — Ghazan owns the copy
+- roadmap.kurult.ai — intended hostname for Parse + Hulegu launch roadmaps (Ghazan owns the copy; Mini origin, same class as life.kurult.ai)
 - [Kurultai](https://kurult.ai): lab front page — identity, ledger, directory
 - [The roster](https://roster.kurult.ai): named seats of the agent fleet
 
@@ -11,4 +11,4 @@
 - [Parse demo](https://www.parsethis.ai/demo): keyless demo screen
 
 ## Code
-- [GitHub](https://github.com/Danservfinn): public repositories
+- [GitHub](https://github.com/Danservfinn/roadmap.kurult.ai): source repository
