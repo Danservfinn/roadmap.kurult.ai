@@ -4,7 +4,6 @@
 ## About
 - Kurultai launch roadmaps — Parse + Hulegu (Ghazan owns product truth; host URL not posted)
 - [Kurultai](https://kurult.ai): lab front page — identity, ledger, directory
-- [The roster](https://roster.kurult.ai): named seats of the agent fleet
 
 ## Product
 - [ParseThis](https://www.parsethis.ai): agent governance platform
