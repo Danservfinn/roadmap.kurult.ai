@@ -79,6 +79,35 @@ header h1{
   display:block;
   margin-bottom:.4rem;
 }
+.goal{
+  margin-top:1.25rem;
+  width:100%;
+  max-width:none;
+  padding:1rem 1.1rem;
+  background:var(--panel);
+  border:1px solid var(--line);
+  border-left:3px solid var(--hold);
+  color:var(--ink-dim);
+  font-size:.98rem;
+  display:grid;
+  gap:.65rem;
+}
+.goal > strong{
+  font-family:var(--font-m);
+  font-size:max(12px,.75rem);
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--hold);
+  display:block;
+}
+.goal p strong{
+  font-family:var(--font-m);
+  font-size:max(12px,.75rem);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--ink);
+  font-weight:600;
+}
 
 .boards{
   display:grid;
