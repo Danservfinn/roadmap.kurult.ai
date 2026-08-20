@@ -1,4 +1,4 @@
-# roadmap.kurult.ai — all crawlers welcome, including AI crawlers.
+# Launch roadmaps — host URL not posted. All crawlers welcome, including AI crawlers.
 
 User-agent: *
 Allow: /
@@ -29,5 +29,3 @@ Allow: /
 
 User-agent: CCBot
 Allow: /
-
-Sitemap: https://roadmap.kurult.ai/sitemap.xml
